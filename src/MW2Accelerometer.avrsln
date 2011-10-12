@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "MW2Accelerometer", "MW2Accelerometer.avrgccproj", "{9424E563-3C54-4258-9A4C-97B36C7BD97B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9424E563-3C54-4258-9A4C-97B36C7BD97B}.Debug|AVR.ActiveCfg = Debug|AVR
+		{9424E563-3C54-4258-9A4C-97B36C7BD97B}.Debug|AVR.Build.0 = Debug|AVR
+		{9424E563-3C54-4258-9A4C-97B36C7BD97B}.Release|AVR.ActiveCfg = Release|AVR
+		{9424E563-3C54-4258-9A4C-97B36C7BD97B}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
